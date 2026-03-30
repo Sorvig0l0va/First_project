@@ -1,2 +1,1 @@
-# First_project
-Stepik: Git course
+my first test Git repo
